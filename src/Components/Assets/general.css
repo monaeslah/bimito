@@ -1,0 +1,63 @@
+input{
+  width: 100%;
+}
+.card {
+    border-radius: 5px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    margin: 10px;
+    text-align: center;   
+    display: inline-block; 
+    border: 1px solid #0c92d0; 
+    
+  }
+  .card-div{
+    padding: 0px !important;
+  }
+
+  
+  .card button {
+    border: none;
+    outline: 0;
+    padding: 12px;
+    color: white;
+    background-color: #0c92d0;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+    border: 1px solid #05405c; 
+  }
+  .btn-edt{
+    border: none;
+    outline: 0;
+    padding: 12px;
+    color: white;
+    background-color: #0c92d0;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+    border: 1px solid #08587e; 
+  }
+  .btn-cncl{
+    border: none;
+    outline: 0;
+    padding: 12px;
+    color: white;
+    background-color: #d0230c;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+    border: 1px solid #7e0808; 
+  }
+  .button-style{
+      border-radius: 0 0 5px 5px;
+  }
+  .card button:hover {
+    opacity: 0.7;
+    
+  }
+  
+ 
